@@ -4,6 +4,7 @@
 
 function primeiraFuncao() {
     // TODO: Retorna um booleano
+    return false
 }
 
 function myGithubUsername() {

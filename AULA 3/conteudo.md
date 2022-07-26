@@ -102,3 +102,9 @@ node <caminho_do_arquivo>
 # e.x. node AULA\ 3/exemplo.js
 
 ```
+
+## Ajuda nas atividades
+
+### STRING
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
