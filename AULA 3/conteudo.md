@@ -105,6 +105,10 @@ node <caminho_do_arquivo>
 
 ## Ajuda nas atividades
 
+### PARA RODAR O SCRIPT
+
+`npm run test`
+
 ### STRING
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
