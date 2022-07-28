@@ -54,7 +54,7 @@ test('Deve retornar false se a frase NÃO contém a palavra', () => {
 
 test('Deve substituir os caractéres', () => {
     expect(funcoes.substituicao('Lina', 'a', 'o')).toBe('Lino')
-    expect(funcoes.substituicao('falar', 'f', 't')).toBe('tapar')
+    expect(funcoes.substituicao('falar', 'f', 't')).toBe('talar')
     expect(funcoes.substituicao('Rio de Janeiro', 'o', 'a')).toBe(
         'Ria de Janeira'
     )
