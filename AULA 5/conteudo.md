@@ -123,7 +123,5 @@ console.log(objetoDeListas.alunos) // ['Alan', 'Daniel', 'Gabriel', 'Gabrielle',
 
 console.log(objetoDeListas.professores[1].nome) // Professora Dona Florinda
 
-console.log(objetoDeListas.monitores.unidade2[1])[ // Monitor2
-
-]
+console.log(objetoDeListas.monitores.unidade2[1]) // Monitor2
 ```
