@@ -125,3 +125,7 @@ console.log(objetoDeListas.professores[1].nome) // Professora Dona Florinda
 
 console.log(objetoDeListas.monitores.unidade2[1]) // Monitor2
 ```
+
+## COMO RODAR OS TESTES PARA AULA 5
+
+`npm test -- AULA\ 5/atividades.aula5.spec.js`

@@ -1,4 +1,4 @@
-const funcoes = require('./atividades.aula4')
+const funcoes = require('./atividades.aula5')
 
 test('Deve retornar quantidade de elementos', () => {
     expect(funcoes.quantidadeDeElementos([1, 2, 3, 4])).toBe(4)
