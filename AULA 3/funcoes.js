@@ -9,7 +9,7 @@ function primeiraFuncao() {
 
 function myGithubUsername() {
     // TODO: A função deve retornar o seu usuário Github
-    return 'alanmareines'
+    return 'pagoncalves'
 }
 
 function tchauEspacosEmBranco(stringExemplo) {
