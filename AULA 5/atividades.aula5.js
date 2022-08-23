@@ -4,6 +4,7 @@
 
 function quantidadeDeElementos(arrayFicticio) {
     // TODO: retorne a quantidade de elementos de um arrayFicticio
+    console.log(quantidadeDeElementos.Length); 
 }
 
 function ordenarArray(arrayFicticio) {
